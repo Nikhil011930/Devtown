@@ -1,0 +1,30 @@
+Relation Database management system (RDBSM)
+- Mysql is the data base management system
+- Microsoft
+- SQL Server
+- Oracal
+- Postgres
+
+
+noralation database management system (NoSQL)
+- MonngoDB
+- Redis
+- Cassandra it is the distributer database
+- 
+
+SQL---->
+
+- To perform the CRUD operators
+
+- Querry
+
+- Not case Sensitive hello HELLO
+
+- End and querry with -->;
+
+  Create a table;
+  Create another table;
+
+CLI --> Command line inteface (it is without gui) 
+Linux is the Kernal
+ 

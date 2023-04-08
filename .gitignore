@@ -1,0 +1,7 @@
+#Ignore folder
+.ipynb_checkpoints/
+.vscode/
+lfwpeople/
+dogs-vs-cats
+model1_catsVSdogs_10epoch.h5
+creditcard.csv
